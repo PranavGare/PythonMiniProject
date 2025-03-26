@@ -1,14 +1,6 @@
 # Email Spam Detection with Machine Learning
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
-
-![MasterHead](https://www.easyspace.com/blog/wp-content/uploads/2019/03/spam-1.png)
-
 <font size="1">Image Courtesy: https://www.easyspace.com/blog/wp-content/uploads/2019/03/spam-1.png</font>
-
-Click on the following link to checkout the colab file.
-- [Colab](https://colab.research.google.com/drive/1ggzEa68D7EJ3zerlhMqZAXv5_kC85bYg?usp=sharing)
-
 
 ---
 
@@ -61,34 +53,3 @@ In today's digital age, the challenge of combating spam emails is more pressing 
 7. **Deployment:** We discussed potential deployment strategies for the spam detection model, highlighting its real-world applicability in email filtering.
 
 The completion of this project not only equipped us with practical data science skills but also contributed to the ongoing battle against email spam. The project's success was a testament to the power of machine learning in addressing real-world challenges.
-
----
-
-## Conclusion
-
-In the world of email communication, the battle against spam messages is an ongoing challenge. Our journey in this project was to develop a robust email spam detector using Python and machine learning techniques. We wanted to equip users with a tool that can distinguish between legitimate emails (ham) and unsolicited, often harmful, spam emails.
-
-**Key Insights:**
-
-- Our dataset revealed an interesting distribution, with approximately 13.41% of messages being categorized as spam and the remaining 86.59% as ham. This distribution served as a crucial starting point for our analysis.
-
-- During the EDA process, we identified common keywords frequently found in spam messages, such as 'free,' 'call,' 'text,' 'txt,' and 'now.' These words often trigger spam filters and were important features for our machine learning model.
-
-- Our journey through machine learning brought us to a standout performer - the Multinomial Naive Bayes model. This model exhibited exceptional accuracy, achieving an impressive score of 98.49% on the recall test set. This outcome signifies the model's exceptional ability to accurately identify and filter out spam emails, thereby contributing to enhanced email security and a superior user experience.
-
-In conclusion, this project has demonstrated that machine learning, combined with effective feature engineering and model selection, can be a powerful tool in the ongoing battle against email spam. By implementing this spam detection system, we've taken a significant step towards minimizing the impact of spam messages on email users' lives.
-
-Email inboxes are now a safer place, thanks to the successful implementation of our email spam detection system. As we conclude this project, we look forward to continued improvements and innovations in email security.
-
-Let's keep our inboxes spam-free and our communications secure.
-
----
-
-## Author
-
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
-
----
-
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
